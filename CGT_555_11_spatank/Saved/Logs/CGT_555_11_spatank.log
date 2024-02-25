@@ -828,3 +828,104 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.25-20.09.35:088][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Auto1
 [2024.02.25-20.09.35:088][242]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SKM_Manny_Auto10F36BEA14CB69DB05283179B52C88437.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Auto1.uasset'
 [2024.02.25-20.09.35:093][242]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.02.25-20.11.39:406][441]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.11.46:090][441]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.11.47:151][441]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.11.47:914][441]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.11.48:722][441]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.14.51:384][619]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.16.47:693][885]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.05:815][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.08:724][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.09:872][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.10:617][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.11:378][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.12:008][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.12:606][829]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.17.25:732][147]Cmd: TRANSACTION UNDO
+[2024.02.25-20.17.25:732][147]LogEditorTransaction: Undo Remove Retarget Chain
+[2024.02.25-20.17.25:781][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.17.56:133][556]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.18.21:391][298]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.18.27:989][298]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.18.38:529][298]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.18.49:350][298]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.18.55:671][298]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.19.20:625][825]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/IK_SKM_Manny
+[2024.02.25-20.19.20:630][825]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SKM_Manny4D05BF014981D557D20E318E71EA2C08.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Mannequins/Meshes/IK_SKM_Manny.uasset'
+[2024.02.25-20.19.20:639][825]AssetCheck: New page: Asset Save: IK_SKM_Manny
+[2024.02.25-20.19.20:639][825]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny.IK_SKM_Manny
+[2024.02.25-20.20.02:565][ 96]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/HeroTPP/Meshes/HeroTPP.HeroTPP
+[2024.02.25-20.20.02:580][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.20.02:588][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.20.02:756][ 96]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-20.20.13:511][ 79]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Owen) ...
+[2024.02.25-20.20.13:517][ 79]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Owen/Meshes/Owen.Owen
+[2024.02.25-20.20.13:518][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.20.13:539][ 79]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.20.13:540][ 79]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.20.13:541][ 79]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.20.13:700][ 79]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-20.20.14:987][201]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.20.14:988][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.20.24:507][ 39]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.20.24:507][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.20.34:867][ 48]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.20.34:867][ 48]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.20.45:397][747]LogSlate: Window 'Pick Skeletal Mesh' being destroyed
+[2024.02.25-20.20.45:407][747]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2024.02.25-20.20.45:411][747]LogContentBrowser: Creating deferred item: NewIKRig
+[2024.02.25-20.20.45:419][748]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2024.02.25-20.20.48:336][ 42]LogContentBrowser: Attempting asset rename: NewIKRig -> NewIKRig
+[2024.02.25-20.20.48:336][ 42]LogContentBrowser: End creating deferred item NewIKRig
+[2024.02.25-20.20.50:965][299]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.20.50:965][299]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.21.00:699][287]LogContentBrowser: Attempting asset rename: NewIKRig -> IK_SK_Owen
+[2024.02.25-20.21.00:772][287]LogSavePackage: Moving output files for package: /Game/Characters/Owen/Meshes/IK_SK_Owen
+[2024.02.25-20.21.00:772][287]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_OwenFB358E3B422FCF866A725EB965110997.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen.uasset'
+[2024.02.25-20.21.00:794][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.25-20.21.00:803][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.25-20.21.00:809][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.25-20.21.00:812][287]AssetCheck: New page: Asset Save: IK_SK_Owen
+[2024.02.25-20.21.00:812][287]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen.IK_SK_Owen
+[2024.02.25-20.21.03:083][510]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen.IK_SK_Owen
+[2024.02.25-20.21.03:083][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.21.03:102][510]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.21.03:103][510]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.21.03:103][510]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.21.03:103][510]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.21.03:261][510]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-20.21.03:280][510]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.21.37:764][973]Cmd: TRANSACTION UNDO
+[2024.02.25-20.21.37:764][973]LogEditorTransaction: Undo Add Retarget Chain
+[2024.02.25-20.21.37:852][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.21.37:853][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.22.00:185][755]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.22.18:234][495]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.22.21:334][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.02.25-20.22.21:336][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ExampleProjectWelcome' took 0.008
+[2024.02.25-20.22.21:337][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Owen/Meshes/IK_SK_Owen] ([1] browsable assets)...
+[2024.02.25-20.22.21:337][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Owen/Meshes/IK_SK_Owen]
+[2024.02.25-20.22.21:346][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Owen/Meshes/IK_SK_Owen_Auto2
+[2024.02.25-20.22.21:346][771]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_Owen_Auto285FCD23A4288F8D3D0342994453E1521.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/Autosaves/Game/Characters/Owen/Meshes/IK_SK_Owen_Auto2.uasset'
+[2024.02.25-20.22.21:352][771]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.02.25-20.22.30:420][ 68]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.22.51:235][367]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.22.56:348][367]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.23.01:805][367]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.23.08:138][367]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.23.14:997][367]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.23.42:800][ 50]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.23.55:705][629]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.24.10:942][512]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.24.16:435][512]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.24.23:130][512]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.24.27:934][512]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.24.34:266][512]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.24.59:232][839]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.25.13:849][573]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.25.27:484][966]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.25.43:755][565]LogSavePackage: Moving output files for package: /Game/Characters/Owen/Meshes/IK_SK_Owen
+[2024.02.25-20.25.43:758][565]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_OwenE5ECEB6346A469A82A4C4A82B89E119B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen.uasset'
+[2024.02.25-20.25.43:769][565]AssetCheck: New page: Asset Save: IK_SK_Owen
+[2024.02.25-20.25.43:769][565]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen.IK_SK_Owen

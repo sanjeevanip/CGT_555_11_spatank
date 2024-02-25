@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosCaching",
+			"Enabled": true
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"Platforms"
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Android",
+		"IOS",
+		"Linux",
+		"Mac",
+		"Windows",
+		"PS4",
+		"PS5",
+		"Switch",
+		"WinGDK",
+		"XboxOneGDK",
+		"XSX"
+	],
+	"EpicSampleNameHash": "3769454916"
+}

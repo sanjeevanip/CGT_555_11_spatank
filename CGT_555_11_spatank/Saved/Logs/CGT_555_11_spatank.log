@@ -929,3 +929,465 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.25-20.25.43:758][565]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_OwenE5ECEB6346A469A82A4C4A82B89E119B.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen.uasset'
 [2024.02.25-20.25.43:769][565]AssetCheck: New page: Asset Save: IK_SK_Owen
 [2024.02.25-20.25.43:769][565]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen.IK_SK_Owen
+[2024.02.25-20.28.00:262][376]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.00:262][376]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.01:163][476]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.01:163][476]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.30:467][538]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.30:467][538]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.30:745][568]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.30:745][568]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-20.28.47:804][811]LogSlate: Window 'Pick IK Rig To Copy Animation From' being destroyed
+[2024.02.25-20.28.47:816][811]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2024.02.25-20.28.47:822][811]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2024.02.25-20.28.47:833][812]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2024.02.25-20.28.56:507][671]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2024.02.25-20.28.56:507][671]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2024.02.25-20.29.00:636][ 89]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Characters/Mannequins/Meshes/NewIKRetargeter.NewIKRetargeter
+[2024.02.25-20.29.00:636][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.29.00:657][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.29.00:732][ 89]LogViewport: Scene viewport resized to 763x866, mode Windowed.
+[2024.02.25-20.29.18:452][ 22]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_1' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.29.18:452][ 22]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_1' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.29.18:467][ 23]LogTemp: Warning: IK Retargeter root bone is very near the ground plane. This is probably not correct.
+[2024.02.25-20.29.21:056][264]LogViewport: Scene viewport resized to 767x866, mode Windowed.
+[2024.02.25-20.29.21:072][265]LogViewport: Scene viewport resized to 770x866, mode Windowed.
+[2024.02.25-20.29.21:127][266]LogViewport: Scene viewport resized to 783x866, mode Windowed.
+[2024.02.25-20.29.21:142][267]LogViewport: Scene viewport resized to 785x866, mode Windowed.
+[2024.02.25-20.29.21:160][268]LogViewport: Scene viewport resized to 787x866, mode Windowed.
+[2024.02.25-20.29.21:177][269]LogViewport: Scene viewport resized to 790x866, mode Windowed.
+[2024.02.25-20.29.21:199][270]LogViewport: Scene viewport resized to 800x866, mode Windowed.
+[2024.02.25-20.29.21:217][271]LogViewport: Scene viewport resized to 812x866, mode Windowed.
+[2024.02.25-20.29.21:236][272]LogViewport: Scene viewport resized to 820x866, mode Windowed.
+[2024.02.25-20.29.21:254][273]LogViewport: Scene viewport resized to 832x866, mode Windowed.
+[2024.02.25-20.29.21:273][274]LogViewport: Scene viewport resized to 836x866, mode Windowed.
+[2024.02.25-20.29.21:290][275]LogViewport: Scene viewport resized to 840x866, mode Windowed.
+[2024.02.25-20.29.21:310][276]LogViewport: Scene viewport resized to 841x866, mode Windowed.
+[2024.02.25-20.29.21:327][277]LogViewport: Scene viewport resized to 845x866, mode Windowed.
+[2024.02.25-20.29.21:348][278]LogViewport: Scene viewport resized to 851x866, mode Windowed.
+[2024.02.25-20.29.21:365][279]LogViewport: Scene viewport resized to 865x866, mode Windowed.
+[2024.02.25-20.29.21:382][280]LogViewport: Scene viewport resized to 882x866, mode Windowed.
+[2024.02.25-20.29.21:402][281]LogViewport: Scene viewport resized to 892x866, mode Windowed.
+[2024.02.25-20.29.21:427][283]LogViewport: Scene viewport resized to 894x866, mode Windowed.
+[2024.02.25-20.29.21:470][287]LogViewport: Scene viewport resized to 896x866, mode Windowed.
+[2024.02.25-20.29.21:486][288]LogViewport: Scene viewport resized to 901x866, mode Windowed.
+[2024.02.25-20.29.21:514][289]LogViewport: Scene viewport resized to 912x866, mode Windowed.
+[2024.02.25-20.29.21:531][290]LogViewport: Scene viewport resized to 917x866, mode Windowed.
+[2024.02.25-20.29.21:556][292]LogViewport: Scene viewport resized to 919x866, mode Windowed.
+[2024.02.25-20.29.21:574][293]LogViewport: Scene viewport resized to 920x866, mode Windowed.
+[2024.02.25-20.29.21:600][295]LogViewport: Scene viewport resized to 922x866, mode Windowed.
+[2024.02.25-20.29.21:620][296]LogViewport: Scene viewport resized to 925x866, mode Windowed.
+[2024.02.25-20.29.21:642][297]LogViewport: Scene viewport resized to 932x866, mode Windowed.
+[2024.02.25-20.29.21:661][298]LogViewport: Scene viewport resized to 935x866, mode Windowed.
+[2024.02.25-20.29.21:680][299]LogViewport: Scene viewport resized to 939x866, mode Windowed.
+[2024.02.25-20.29.21:705][301]LogViewport: Scene viewport resized to 941x866, mode Windowed.
+[2024.02.25-20.29.21:730][303]LogViewport: Scene viewport resized to 944x866, mode Windowed.
+[2024.02.25-20.29.21:750][304]LogViewport: Scene viewport resized to 947x866, mode Windowed.
+[2024.02.25-20.29.21:770][305]LogViewport: Scene viewport resized to 951x866, mode Windowed.
+[2024.02.25-20.29.21:786][306]LogViewport: Scene viewport resized to 953x866, mode Windowed.
+[2024.02.25-20.29.21:806][307]LogViewport: Scene viewport resized to 955x866, mode Windowed.
+[2024.02.25-20.29.21:916][319]LogViewport: Scene viewport resized to 967x866, mode Windowed.
+[2024.02.25-20.29.21:936][320]LogViewport: Scene viewport resized to 975x866, mode Windowed.
+[2024.02.25-20.29.21:965][321]LogViewport: Scene viewport resized to 993x866, mode Windowed.
+[2024.02.25-20.29.21:984][322]LogViewport: Scene viewport resized to 1005x866, mode Windowed.
+[2024.02.25-20.29.22:002][323]LogViewport: Scene viewport resized to 1019x866, mode Windowed.
+[2024.02.25-20.29.22:020][324]LogViewport: Scene viewport resized to 1036x866, mode Windowed.
+[2024.02.25-20.29.22:041][325]LogViewport: Scene viewport resized to 1043x866, mode Windowed.
+[2024.02.25-20.29.22:057][326]LogViewport: Scene viewport resized to 1044x866, mode Windowed.
+[2024.02.25-20.30.32:812][561]LogTemp: Warning: IK Retargeter root bone is very near the ground plane. This is probably not correct.
+[2024.02.25-20.30.36:579][960]LogTemp: Warning: IK Retargeter root bone is very near the ground plane. This is probably not correct.
+[2024.02.25-20.31.29:770][378]LogTemp: Warning: IK Retargeter root bone is very near the ground plane. This is probably not correct.
+[2024.02.25-20.31.48:498][281]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.32.23:988][850]LogSavePackage: Moving output files for package: /Game/Characters/Owen/Meshes/IK_SK_Owen
+[2024.02.25-20.32.23:992][850]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_OwenDC1E0F4B4E62CA172F345D9D85BD7AE7.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen.uasset'
+[2024.02.25-20.32.24:002][850]AssetCheck: New page: Asset Save: IK_SK_Owen
+[2024.02.25-20.32.24:002][850]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen.IK_SK_Owen
+[2024.02.25-20.33.15:638][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.25-20.33.15:641][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ExampleProjectWelcome' took 0.011
+[2024.02.25-20.33.15:642][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny] ([1] browsable assets)...
+[2024.02.25-20.33.15:642][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny]
+[2024.02.25-20.33.15:650][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Auto3
+[2024.02.25-20.33.15:650][ 55]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SKM_Manny_Auto331EDD5334BE311FCFEE7119E8980C9D4.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Auto3.uasset'
+[2024.02.25-20.33.15:656][ 55]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.02.25-20.35.09:031][194]LogSlate: Window 'Create New Retarget Pose' being destroyed
+[2024.02.25-20.35.23:336][597]Cmd: MODE ROTGRID=0
+[2024.02.25-20.35.36:448][885]Cmd: TRANSACTION UNDO
+[2024.02.25-20.35.36:448][885]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.02.25-20.35.36:543][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.35.36:543][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.35.36:552][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.36.55:256][363]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.02.25-20.37.18:683][846]LogSlate: Window 'Select Export Path' being destroyed
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/ExampleContent/ControlRig/Animations/JumpingJacks.JumpingJacks
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/ExampleContent/IKRig/Animations/Mannequin_Press_Button.Mannequin_Press_Button
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.Manny_calf_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.Manny_calf_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.Manny_clavicle_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.Manny_clavicle_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.Manny_foot_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.Manny_foot_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.Manny_hand_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.Manny_hand_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.Manny_lowerarm_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.Manny_lowerarm_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.Manny_thigh_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.Manny_thigh_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.Manny_upperarm_l_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.Manny_upperarm_r_pose
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.02.25-20.37.18:689][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Death_Front_03.MM_Death_Front_03
+[2024.02.25-20.37.18:694][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Death_Front_03_ExtractedRM.MM_Death_Front_03_ExtractedRM
+[2024.02.25-20.37.18:699][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Death_Front_03_NoRM.MM_Death_Front_03_NoRM
+[2024.02.25-20.37.18:703][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_HitReact_Front_Med_01.MM_HitReact_Front_Med_01
+[2024.02.25-20.37.18:707][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_HitReact_Front_Med_01_Additive.MM_HitReact_Front_Med_01_Additive
+[2024.02.25-20.37.18:734][846]LogTemp: Display: Duplicating and Retargeting: AnimMontage /Game/Characters/Mannequins/Animations/Manny/MM_HitReact_Front_Med_01_Additive_Montage.MM_HitReact_Front_Med_01_Additive_Montage
+[2024.02.25-20.37.18:736][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Idle_ADS.MM_Rifle_Idle_ADS
+[2024.02.25-20.37.18:741][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC
+[2024.02.25-20.37.18:743][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD
+[2024.02.25-20.37.18:745][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU
+[2024.02.25-20.37.18:746][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Idle_Hipfire.MM_Rifle_Idle_Hipfire
+[2024.02.25-20.37.18:746][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_IdleBreak_Scan.MM_Rifle_IdleBreak_Scan
+[2024.02.25-20.37.18:758][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jog_Bwd.MM_Rifle_Jog_Bwd
+[2024.02.25-20.37.18:763][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jog_Fwd.MM_Rifle_Jog_Fwd
+[2024.02.25-20.37.18:766][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jog_Fwd_Start.MM_Rifle_Jog_Fwd_Start
+[2024.02.25-20.37.18:771][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jog_Fwd_Stop.MM_Rifle_Jog_Fwd_Stop
+[2024.02.25-20.37.18:775][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jog_Left.MM_Rifle_Jog_Left
+[2024.02.25-20.37.18:779][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jog_Right.MM_Rifle_Jog_Right
+[2024.02.25-20.37.18:784][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jump_Apex.MM_Rifle_Jump_Apex
+[2024.02.25-20.37.18:788][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jump_Fall.MM_Rifle_Jump_Fall
+[2024.02.25-20.37.18:791][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jump_RecoveryAdditive.MM_Rifle_Jump_RecoveryAdditive
+[2024.02.25-20.37.18:794][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Jump_Start.MM_Rifle_Jump_Start
+[2024.02.25-20.37.18:795][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Melee.MM_Rifle_Melee
+[2024.02.25-20.37.18:800][846]LogTemp: Display: Duplicating and Retargeting: AnimMontage /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Melee_Montage.MM_Rifle_Melee_Montage
+[2024.02.25-20.37.18:800][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Reload.MM_Rifle_Reload
+[2024.02.25-20.37.18:804][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Reload_Additive.MM_Rifle_Reload_Additive
+[2024.02.25-20.37.18:810][846]LogTemp: Display: Duplicating and Retargeting: AnimMontage /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Reload_Montage.MM_Rifle_Reload_Montage
+[2024.02.25-20.37.18:810][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Walk_Bwd.MM_Rifle_Walk_Bwd
+[2024.02.25-20.37.18:814][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Walk_Fwd.MM_Rifle_Walk_Fwd
+[2024.02.25-20.37.18:818][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Walk_Left.MM_Rifle_Walk_Left
+[2024.02.25-20.37.18:820][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Rifle_Walk_Right.MM_Rifle_Walk_Right
+[2024.02.25-20.37.18:823][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.02.25-20.37.18:827][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.02.25-20.37.18:831][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/ExampleContent/ControlRig/Animations/MontageExample_End_1.MontageExample_End_1
+[2024.02.25-20.37.18:833][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/ExampleContent/ControlRig/Animations/MontageExample_Punch_1.MontageExample_Punch_1
+[2024.02.25-20.37.18:836][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/ExampleContent/ControlRig/Animations/MontageExample_Punch_2.MontageExample_Punch_2
+[2024.02.25-20.37.18:838][846]LogTemp: Display: Duplicating and Retargeting: AnimMontage /Game/ExampleContent/ControlRig/Animations/Punch_Montage.Punch_Montage
+[2024.02.25-20.37.18:838][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.02.25-20.37.18:841][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.Quinn_calf_l_pose
+[2024.02.25-20.37.18:843][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.02.25-20.37.18:845][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.Quinn_calf_r_pose
+[2024.02.25-20.37.18:848][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.02.25-20.37.18:851][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.Quinn_clavicle_l_pose
+[2024.02.25-20.37.18:853][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.02.25-20.37.18:854][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.Quinn_clavicle_r_pose
+[2024.02.25-20.37.18:858][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.02.25-20.37.18:860][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.Quinn_foot_l_pose
+[2024.02.25-20.37.18:862][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.02.25-20.37.18:864][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.Quinn_foot_r_pose
+[2024.02.25-20.37.18:866][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.02.25-20.37.18:867][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.Quinn_hand_l_pose
+[2024.02.25-20.37.18:869][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.02.25-20.37.18:871][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.Quinn_hand_r_pose
+[2024.02.25-20.37.18:873][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.02.25-20.37.18:875][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.Quinn_lowerarm_l_pose
+[2024.02.25-20.37.18:879][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.02.25-20.37.18:881][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.Quinn_lowerarm_r_pose
+[2024.02.25-20.37.18:884][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.02.25-20.37.18:886][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.Quinn_thigh_l_pose
+[2024.02.25-20.37.18:891][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.02.25-20.37.18:893][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.Quinn_thigh_r_pose
+[2024.02.25-20.37.18:898][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.02.25-20.37.18:900][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.Quinn_upperarm_l_pose
+[2024.02.25-20.37.18:904][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.02.25-20.37.18:906][846]LogTemp: Display: Duplicating and Retargeting: PoseAsset /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.Quinn_upperarm_r_pose
+[2024.02.25-20.37.18:911][846]LogTemp: Display: Duplicating and Retargeting: AnimSequence /Game/ExampleContent/ControlRig/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2024.02.25-20.37.20:041][846]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Mannequin_Press_Button_Retargeted.Mannequin_Press_Button_Retargeted
+[2024.02.25-20.37.20:041][846]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Death_Front_03_Retargeted.MM_Death_Front_03_Retargeted
+[2024.02.25-20.37.20:041][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:069][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:076][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:076][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:077][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:078][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:079][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:079][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:080][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:081][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:082][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:082][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:083][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:084][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:084][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:085][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:086][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:091][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:093][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:096][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:099][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:102][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:105][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:125][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:133][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:134][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:135][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:136][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:154][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:157][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:162][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:167][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:173][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:177][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:180][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:182][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:184][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:187][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:188][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:192][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:198][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:205][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:210][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:215][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:218][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:222][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:226][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:233][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:234][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:236][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:237][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:238][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:239][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:240][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:241][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:242][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:244][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:244][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:245][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:247][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:248][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:250][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:251][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:252][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:254][846]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: JumpingJacks_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Mannequin_Press_Button_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_calf_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_calf_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_calf_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_calf_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_clavicle_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_clavicle_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_clavicle_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_clavicle_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_foot_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_foot_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_foot_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_foot_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_hand_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_hand_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_hand_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_hand_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_lowerarm_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_lowerarm_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_lowerarm_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_lowerarm_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_thigh_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_thigh_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_thigh_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_thigh_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_upperarm_l_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_upperarm_l_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_upperarm_r_anim_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Manny_upperarm_r_pose_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MF_Run_Fwd_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Death_Front_03_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Death_Front_03_ExtractedRM_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Death_Front_03_NoRM_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_HitReact_Front_Med_01_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_HitReact_Front_Med_01_Additive_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_HitReact_Front_Med_01_Additive_Montage_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Idle_Hipfire_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Idle_ADS_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Idle_ADS_AO_CC_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Idle_ADS_AO_CD_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Idle_ADS_AO_CU_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_IdleBreak_Scan_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jog_Bwd_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jog_Fwd_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jog_Fwd_Start_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jog_Fwd_Stop_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jog_Left_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jog_Right_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jump_Apex_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jump_Fall_Retargeted
+[2024.02.25-20.37.20:261][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jump_RecoveryAdditive_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Jump_Start_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Melee_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Melee_Montage_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Reload_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Reload_Additive_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Reload_Montage_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Walk_Bwd_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Walk_Fwd_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Walk_Left_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Rifle_Walk_Right_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Run_Fwd_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MM_Walk_Fwd_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MontageExample_End_1_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MontageExample_Punch_1_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: MontageExample_Punch_2_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Punch_Montage_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_calf_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_calf_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_calf_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_calf_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_clavicle_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_clavicle_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_clavicle_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_clavicle_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_foot_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_foot_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_foot_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_foot_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_hand_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_hand_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_hand_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_hand_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_lowerarm_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_lowerarm_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_lowerarm_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_lowerarm_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_thigh_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_thigh_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_thigh_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_thigh_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_upperarm_l_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_upperarm_l_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_upperarm_r_anim_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: Quinn_upperarm_r_pose_Retargeted
+[2024.02.25-20.37.20:262][846]LogTemp: Display: Duplicate and Retarget - New Asset Created: ThirdPersonIdle_Retargeted
+[2024.02.25-20.37.20:599][846]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_upperarm_l_anim_Retargeted.Quinn_upperarm_l_anim_Retargeted
+[2024.02.25-20.37.20:599][846]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/ThirdPersonIdle_Retargeted.ThirdPersonIdle_Retargeted
+[2024.02.25-20.37.20:666][847]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_thigh_l_anim_Retargeted.Quinn_thigh_l_anim_Retargeted
+[2024.02.25-20.37.20:666][847]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_thigh_r_anim_Retargeted.Quinn_thigh_r_anim_Retargeted
+[2024.02.25-20.37.20:731][848]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_lowerarm_l_anim_Retargeted.Quinn_lowerarm_l_anim_Retargeted
+[2024.02.25-20.37.20:731][848]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_lowerarm_r_anim_Retargeted.Quinn_lowerarm_r_anim_Retargeted
+[2024.02.25-20.37.20:779][849]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_hand_l_anim_Retargeted.Quinn_hand_l_anim_Retargeted
+[2024.02.25-20.37.20:779][849]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_hand_r_anim_Retargeted.Quinn_hand_r_anim_Retargeted
+[2024.02.25-20.37.20:829][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_foot_r_anim_Retargeted.Quinn_foot_r_anim_Retargeted
+[2024.02.25-20.37.20:829][850]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_foot_l_anim_Retargeted.Quinn_foot_l_anim_Retargeted
+[2024.02.25-20.37.20:846][852]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_clavicle_r_anim_Retargeted.Quinn_clavicle_r_anim_Retargeted
+[2024.02.25-20.37.20:846][852]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_clavicle_l_anim_Retargeted.Quinn_clavicle_l_anim_Retargeted
+[2024.02.25-20.37.20:873][854]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_calf_r_anim_Retargeted.Quinn_calf_r_anim_Retargeted
+[2024.02.25-20.37.20:873][854]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_calf_l_anim_Retargeted.Quinn_calf_l_anim_Retargeted
+[2024.02.25-20.37.20:889][855]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MontageExample_Punch_2_Retargeted.MontageExample_Punch_2_Retargeted
+[2024.02.25-20.37.20:889][855]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MontageExample_Punch_1_Retargeted.MontageExample_Punch_1_Retargeted
+[2024.02.25-20.37.20:903][857]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MontageExample_End_1_Retargeted.MontageExample_End_1_Retargeted
+[2024.02.25-20.37.20:903][857]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Walk_Fwd_Retargeted.MM_Walk_Fwd_Retargeted
+[2024.02.25-20.37.20:920][859]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_upperarm_r_anim_Retargeted.Manny_upperarm_r_anim_Retargeted
+[2024.02.25-20.37.20:928][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Quinn_upperarm_r_anim_Retargeted.Quinn_upperarm_r_anim_Retargeted
+[2024.02.25-20.37.20:946][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_upperarm_l_anim_Retargeted.Manny_upperarm_l_anim_Retargeted
+[2024.02.25-20.37.20:961][864]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_thigh_r_anim_Retargeted.Manny_thigh_r_anim_Retargeted
+[2024.02.25-20.37.20:970][865]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_thigh_l_anim_Retargeted.Manny_thigh_l_anim_Retargeted
+[2024.02.25-20.37.20:970][865]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_lowerarm_r_anim_Retargeted.Manny_lowerarm_r_anim_Retargeted
+[2024.02.25-20.37.20:979][866]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_lowerarm_l_anim_Retargeted.Manny_lowerarm_l_anim_Retargeted
+[2024.02.25-20.37.20:979][866]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Manny_hand_r_anim_Retargeted.Manny_hand_r_anim_Retargeted
+[2024.02.25-20.37.21:011][870]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/Mannequin_Press_Button_Retargeted.Mannequin_Press_Button_Retargeted
+[2024.02.25-20.37.21:025][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/JumpingJacks_Retargeted.JumpingJacks_Retargeted
+[2024.02.25-20.37.21:094][879]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Run_Fwd_Retargeted.MM_Run_Fwd_Retargeted
+[2024.02.25-20.37.21:142][885]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Walk_Right_Retargeted.MM_Rifle_Walk_Right_Retargeted
+[2024.02.25-20.37.21:184][890]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Walk_Left_Retargeted.MM_Rifle_Walk_Left_Retargeted
+[2024.02.25-20.37.21:217][894]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Walk_Fwd_Retargeted.MM_Rifle_Walk_Fwd_Retargeted
+[2024.02.25-20.37.21:268][900]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Walk_Bwd_Retargeted.MM_Rifle_Walk_Bwd_Retargeted
+[2024.02.25-20.37.21:281][901]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Reload_Additive_Retargeted.MM_Rifle_Reload_Additive_Retargeted
+[2024.02.25-20.37.21:396][907]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Reload_Retargeted.MM_Rifle_Reload_Retargeted
+[2024.02.25-20.37.21:451][908]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Melee_Retargeted.MM_Rifle_Melee_Retargeted
+[2024.02.25-20.37.21:451][908]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jump_Start_Retargeted.MM_Rifle_Jump_Start_Retargeted
+[2024.02.25-20.37.21:510][909]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jump_Fall_Retargeted.MM_Rifle_Jump_Fall_Retargeted
+[2024.02.25-20.37.21:510][909]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jump_RecoveryAdditive_Retargeted.MM_Rifle_Jump_RecoveryAdditive_Retargeted
+[2024.02.25-20.37.21:543][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jump_Apex_Retargeted.MM_Rifle_Jump_Apex_Retargeted
+[2024.02.25-20.37.21:543][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jog_Right_Retargeted.MM_Rifle_Jog_Right_Retargeted
+[2024.02.25-20.37.21:592][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jog_Left_Retargeted.MM_Rifle_Jog_Left_Retargeted
+[2024.02.25-20.37.21:592][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jog_Fwd_Stop_Retargeted.MM_Rifle_Jog_Fwd_Stop_Retargeted
+[2024.02.25-20.37.21:630][914]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jog_Fwd_Start_Retargeted.MM_Rifle_Jog_Fwd_Start_Retargeted
+[2024.02.25-20.37.21:662][917]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jog_Fwd_Retargeted.MM_Rifle_Jog_Fwd_Retargeted
+[2024.02.25-20.37.21:705][920]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Jog_Bwd_Retargeted.MM_Rifle_Jog_Bwd_Retargeted
+[2024.02.25-20.37.21:718][921]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_IdleBreak_Scan_Retargeted.MM_Rifle_IdleBreak_Scan_Retargeted
+[2024.02.25-20.37.21:755][924]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Idle_ADS_AO_CU_Retargeted.MM_Rifle_Idle_ADS_AO_CU_Retargeted
+[2024.02.25-20.37.21:768][925]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Idle_ADS_AO_CD_Retargeted.MM_Rifle_Idle_ADS_AO_CD_Retargeted
+[2024.02.25-20.37.21:782][926]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Idle_ADS_AO_CC_Retargeted.MM_Rifle_Idle_ADS_AO_CC_Retargeted
+[2024.02.25-20.37.21:794][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Idle_ADS_Retargeted.MM_Rifle_Idle_ADS_Retargeted
+[2024.02.25-20.37.21:882][934]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Rifle_Idle_Hipfire_Retargeted.MM_Rifle_Idle_Hipfire_Retargeted
+[2024.02.25-20.37.21:938][938]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_HitReact_Front_Med_01_Additive_Retargeted.MM_HitReact_Front_Med_01_Additive_Retargeted
+[2024.02.25-20.37.21:972][941]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_HitReact_Front_Med_01_Retargeted.MM_HitReact_Front_Med_01_Retargeted
+[2024.02.25-20.37.22:015][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Death_Front_03_NoRM_Retargeted.MM_Death_Front_03_NoRM_Retargeted
+[2024.02.25-20.37.22:040][946]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Death_Front_03_ExtractedRM_Retargeted.MM_Death_Front_03_ExtractedRM_Retargeted
+[2024.02.25-20.37.22:075][949]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MM_Death_Front_03_Retargeted.MM_Death_Front_03_Retargeted
+[2024.02.25-20.37.22:088][950]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Owen/Animations/MF_Run_Fwd_Retargeted.MF_Run_Fwd_Retargeted
+[2024.02.25-20.37.48:466][334]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Owen/Animations/Mannequin_Press_Button_Retargeted.Mannequin_Press_Button_Retargeted
+[2024.02.25-20.37.48:469][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.37.48:490][334]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.37.48:491][334]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.37.48:491][334]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.37.48:595][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.37.48:718][334]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.25-20.37.48:721][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.37.48:740][334]LogViewport: Scene viewport resized to 1141x547, mode Windowed.
+[2024.02.25-20.37.48:772][334]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.37.51:734][614]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.37.51:734][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.37.51:749][614]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.37.51:749][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.37.51:810][614]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.37.51:810][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.37.56:127][ 20]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Owen/Animations/Manny_lowerarm_r_anim_Retargeted.Manny_lowerarm_r_anim_Retargeted
+[2024.02.25-20.37.56:129][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.37.56:150][ 20]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.37.56:151][ 20]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.37.56:151][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.37.56:240][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.37.56:320][ 20]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.25-20.37.56:324][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.37.56:340][ 20]LogViewport: Scene viewport resized to 1141x547, mode Windowed.
+[2024.02.25-20.37.56:366][ 20]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.37.58:693][233]LogDerivedDataCache: C:/Users/spatank/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.588 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.25-20.37.58:806][245]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.37.58:806][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.37.58:823][245]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.37.58:823][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.37.58:888][245]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.37.58:888][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.38.02:437][535]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Owen/Animations/MF_Run_Fwd_Retargeted.MF_Run_Fwd_Retargeted
+[2024.02.25-20.38.02:439][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.38.02:459][535]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.38.02:460][535]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-20.38.02:460][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.38.02:552][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.38.02:638][535]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.25-20.38.02:642][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-20.38.02:659][535]LogViewport: Scene viewport resized to 1141x547, mode Windowed.
+[2024.02.25-20.38.02:687][535]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.38.04:464][703]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.02.25-20.38.15:755][650]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.38.15:755][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.38.15:772][650]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.38.15:772][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.38.15:832][650]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-20.38.15:832][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-20.38.31:006][144]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/NewIKRetargeter
+[2024.02.25-20.38.31:006][144]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/NewIKRetargeter82DF09A946EBFC033D6B8EABD44146E6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Mannequins/Meshes/NewIKRetargeter.uasset'
+[2024.02.25-20.38.31:017][144]AssetCheck: New page: Asset Save: NewIKRetargeter
+[2024.02.25-20.38.31:017][144]LogContentValidation: Display: Validating IKRetargeter /Game/Characters/Mannequins/Meshes/NewIKRetargeter.NewIKRetargeter

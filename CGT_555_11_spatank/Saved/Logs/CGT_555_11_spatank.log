@@ -3002,3 +3002,82 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.25-21.31.50:658][446]LogFileHelpers: No new changes to save!
 [2024.02.25-21.31.50:667][446]AssetCheck: New page: Asset Save: ExampleProjectWelcome
 [2024.02.25-21.31.50:667][446]LogContentValidation: Display: Validating World /Game/Maps/ExampleProjectWelcome.ExampleProjectWelcome
+[2024.02.25-21.32.39:575][339]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Characters/Mannequins/Meshes/NewIKRetargeter.NewIKRetargeter
+[2024.02.25-21.32.39:575][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.32.39:586][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.32.39:589][339]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_1' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.32.39:590][339]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_1' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.32.39:719][339]LogViewport: Scene viewport resized to 1044x866, mode Windowed.
+[2024.02.25-21.32.39:754][339]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Left_Ring, could not find start bone, ring_01_l in mesh SKM_Bot
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Left_Ring, could not find end bone, ring_02_l in mesh SKM_Bot
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Left_Ring, end bone, 'ring_02_l' was not a child of the start bone 'ring_01_l'.
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter target bone chain, 'Left_Ring', is not compatible with Skeletal Mesh: 'SKM_Bot'
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Right_Ring, could not find start bone, ring_01_r in mesh SKM_Bot
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Right_Ring, could not find end bone, ring_02_r in mesh SKM_Bot
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Right_Ring, end bone, 'ring_02_r' was not a child of the start bone 'ring_01_r'.
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter target bone chain, 'Right_Ring', is not compatible with Skeletal Mesh: 'SKM_Bot'
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Left_Leg, could not find end bone, ball_l in mesh SKM_Bot
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter bone chain, Left_Leg, end bone, 'ball_l' was not a child of the start bone 'thigh_l'.
+[2024.02.25-21.32.52:378][594]LogTemp: Warning: IK Retargeter target bone chain, 'Left_Leg', is not compatible with Skeletal Mesh: 'SKM_Bot'
+[2024.02.25-21.33.03:408][786]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_1' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.33.03:409][786]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_1' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.33.26:123][942]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/NewIKRetargeter
+[2024.02.25-21.33.26:128][942]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/NewIKRetargeter36FDEF8B42CCF86E1B54D38F243D31D3.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Mannequins/Meshes/NewIKRetargeter.uasset'
+[2024.02.25-21.33.26:138][942]AssetCheck: New page: Asset Save: NewIKRetargeter
+[2024.02.25-21.33.26:138][942]LogContentValidation: Display: Validating IKRetargeter /Game/Characters/Mannequins/Meshes/NewIKRetargeter.NewIKRetargeter
+[2024.02.25-21.33.46:272][771]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/Owen/Meshes/Owen_Physics.Owen_Physics
+[2024.02.25-21.33.46:298][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.33.46:312][771]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'PhysicsAssetEditorSkeletalMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.33.46:313][771]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'PhysicsAssetEditorSkeletalMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.33.46:314][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.33.46:697][771]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-21.33.50:717][ 52]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.33.50:717][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.34.07:369][604]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Owen/Meshes/Owen.Owen
+[2024.02.25-21.34.07:371][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.34.07:391][604]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.34.07:391][604]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.34.07:392][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.34.07:555][604]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-21.34.22:630][ 26]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.34.22:630][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.34.26:454][360]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Owen/Meshes/Owen_Skeleton.Owen_Skeleton
+[2024.02.25-21.34.26:458][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.34.26:476][360]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.34.26:477][360]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.34.26:477][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.34.26:574][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.34.26:670][360]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-21.34.31:519][796]LogSlate: Window 'Owen_Skeleton' being destroyed
+[2024.02.25-21.34.31:523][796]LogSlate: Window 'Owen_Skeleton' being destroyed
+[2024.02.25-21.34.31:524][796]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.34.31:524][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.34.31:554][796]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.34.31:554][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.34.31:620][796]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.34.31:620][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.34.55:093][382]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Owen/Animations/JumpingJacks_Retargeted.JumpingJacks_Retargeted
+[2024.02.25-21.34.55:097][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.34.55:112][382]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.34.55:113][382]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 27 sphere, 0 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2024.02.25-21.34.55:113][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.34.55:292][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.34.55:358][382]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.25-21.34.55:362][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-21.34.55:374][382]LogViewport: Scene viewport resized to 1141x547, mode Windowed.
+[2024.02.25-21.34.55:401][382]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-21.35.00:066][833]LogSlate: Window 'JumpingJacks_Retargeted' being destroyed
+[2024.02.25-21.35.00:070][833]LogSlate: Window 'JumpingJacks_Retargeted' being destroyed
+[2024.02.25-21.35.00:070][833]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.35.00:070][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.35.00:085][833]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.35.00:085][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.35.00:151][833]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.35.00:151][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.35.08:350][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.25-21.35.08:384][218]LogSavePackage: Moving output files for package: /Game/Maps/ExampleProjectWelcome
+[2024.02.25-21.35.08:389][218]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/ExampleProjectWelcome58E9BB97401637F4D12F6DA11AEA79BD.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Maps/ExampleProjectWelcome.umap'
+[2024.02.25-21.35.08:407][218]LogFileHelpers: No new changes to save!
+[2024.02.25-21.35.08:426][218]AssetCheck: New page: Asset Save: ExampleProjectWelcome
+[2024.02.25-21.35.08:426][218]LogContentValidation: Display: Validating World /Game/Maps/ExampleProjectWelcome.ExampleProjectWelcome

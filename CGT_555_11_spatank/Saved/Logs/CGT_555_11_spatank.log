@@ -2400,3 +2400,125 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.25-20.53.49:263][898]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_Owen_2BA91A8414FCB6EC060847698D42CE2C6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen_2.uasset'
 [2024.02.25-20.53.49:274][898]AssetCheck: New page: Asset Save: IK_SK_Owen_2
 [2024.02.25-20.53.49:274][898]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen_2.IK_SK_Owen_2
+[2024.02.25-20.54.34:595][694]Cmd: TRANSACTION UNDO
+[2024.02.25-20.54.34:595][694]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.54.34:726][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.54.34:726][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.54.34:734][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.54.34:734][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.55.12:688][340]Cmd: TRANSACTION UNDO
+[2024.02.25-20.55.12:688][340]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.55.12:819][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.55.12:820][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.55.12:828][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.55.12:828][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.20:547][860]Cmd: TRANSACTION UNDO
+[2024.02.25-20.56.20:547][860]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.56.20:678][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.20:678][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.20:686][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.20:687][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.24:274][159]Cmd: TRANSACTION UNDO
+[2024.02.25-20.56.24:274][159]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.56.24:399][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.24:400][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.24:407][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.24:407][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.30:885][747]Cmd: TRANSACTION UNDO
+[2024.02.25-20.56.30:885][747]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.56.31:021][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.31:022][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.31:030][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.31:030][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.44:356][ 15]Cmd: TRANSACTION UNDO
+[2024.02.25-20.56.44:356][ 15]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.56.44:487][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.44:488][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.44:496][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.56.44:497][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.01:668][652]Cmd: TRANSACTION UNDO
+[2024.02.25-20.57.01:668][652]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.57.01:801][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.01:801][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.01:809][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.01:809][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.32:759][671]Cmd: TRANSACTION UNDO
+[2024.02.25-20.57.32:759][671]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.57.32:889][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.32:889][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.32:897][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.32:898][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.36:757][994]Cmd: TRANSACTION UNDO
+[2024.02.25-20.57.36:757][994]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.57.36:890][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.36:891][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.36:898][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.36:899][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.49:049][116]Cmd: TRANSACTION UNDO
+[2024.02.25-20.57.49:049][116]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.57.49:181][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.49:181][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.49:188][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.49:189][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.57.58:453][959]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.58.56:491][194]LogSavePackage: Moving output files for package: /Game/Characters/Owen/Meshes/IK_SK_Owen_2
+[2024.02.25-20.58.56:495][194]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_Owen_2C89493394F64D7407FD0DAA37CDF05B6.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen_2.uasset'
+[2024.02.25-20.58.56:505][194]AssetCheck: New page: Asset Save: IK_SK_Owen_2
+[2024.02.25-20.58.56:505][194]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen_2.IK_SK_Owen_2
+[2024.02.25-20.59.33:572][626]Cmd: TRANSACTION UNDO
+[2024.02.25-20.59.33:572][626]LogEditorTransaction: Undo Add Bone Setting
+[2024.02.25-20.59.33:707][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.33:707][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.33:715][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.33:716][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.57:351][891]Cmd: TRANSACTION UNDO
+[2024.02.25-20.59.57:351][891]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-20.59.57:489][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.57:490][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.57:498][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.57:499][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.59.59:928][ 80]Cmd: TRANSACTION UNDO
+[2024.02.25-20.59.59:928][ 80]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-21.00.00:063][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.00:063][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.00:070][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.00:071][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.25:337][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.25-21.00.25:346][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ExampleProjectWelcome' took 0.027
+[2024.02.25-21.00.25:346][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Owen/Meshes/IK_SK_Owen_2] ([1] browsable assets)...
+[2024.02.25-21.00.25:346][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Owen/Meshes/IK_SK_Owen_2]
+[2024.02.25-21.00.25:353][438]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Owen/Meshes/IK_SK_Owen_2_Auto5
+[2024.02.25-21.00.25:353][438]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_Owen_2_Auto570DDDA284E473450B06FA2B03428175E.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/Autosaves/Game/Characters/Owen/Meshes/IK_SK_Owen_2_Auto5.uasset'
+[2024.02.25-21.00.25:358][438]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.02.25-21.00.37:140][566]Cmd: TRANSACTION UNDO
+[2024.02.25-21.00.37:140][566]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-21.00.37:274][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.37:274][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.37:282][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.37:282][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.38:175][618]Cmd: TRANSACTION UNDO
+[2024.02.25-21.00.38:175][618]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.25-21.00.38:305][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.38:306][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.38:314][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.38:314][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-21.00.40:708][826]LogSavePackage: Moving output files for package: /Game/Characters/Owen/Meshes/IK_SK_Owen_2
+[2024.02.25-21.00.40:713][826]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SK_Owen_2E60AF3DE461E2D3CA10390BDBF61DB0C.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Owen/Meshes/IK_SK_Owen_2.uasset'
+[2024.02.25-21.00.40:723][826]AssetCheck: New page: Asset Save: IK_SK_Owen_2
+[2024.02.25-21.00.40:723][826]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Owen/Meshes/IK_SK_Owen_2.IK_SK_Owen_2
+[2024.02.25-21.00.45:110][226]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/IK_SKM_Manny
+[2024.02.25-21.00.45:114][226]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SKM_MannyAC9EA494429BC9A53BB5A891D268BA01.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Mannequins/Meshes/IK_SKM_Manny.uasset'
+[2024.02.25-21.00.45:125][226]AssetCheck: New page: Asset Save: IK_SKM_Manny
+[2024.02.25-21.00.45:125][226]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny.IK_SKM_Manny
+[2024.02.25-21.11.53:781][600]LogSlate: Window 'IK_SK_Owen_2' being destroyed
+[2024.02.25-21.11.53:785][600]LogSlate: Window 'IK_SK_Owen_2' being destroyed
+[2024.02.25-21.11.53:786][600]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.11.53:786][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.11.53:873][600]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.11.53:873][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.11.53:939][600]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.11.53:939][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.11.53:969][600]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.02.25-21.11.53:969][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.25-21.11.55:128][700]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.25-21.11.55:133][700]LogSlate: Window 'Content Browser' being destroyed

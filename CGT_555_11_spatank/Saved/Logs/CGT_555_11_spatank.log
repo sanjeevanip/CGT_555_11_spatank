@@ -735,3 +735,96 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.25-19.36.10:131][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2024.02.25-19.36.10:177][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.02.25-19.37.58:033][454]LogDerivedDataCache: C:/Users/spatank/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.863 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.25-19.51.00:381][914]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.25-19.51.00:386][914]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.25-19.55.39:737][284]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2024.02.25-19.55.39:871][285]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2024.02.25-19.55.47:609][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.55.47:609][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.55.48:480][264]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.55.48:480][264]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.56.11:417][928]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2024.02.25-19.56.21:922][ 90]LogSlate: Window 'Plugins' being destroyed
+[2024.02.25-19.56.21:929][ 90]LogSlate: Window 'Plugins' being destroyed
+[2024.02.25-19.56.21:949][ 90]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.02.25-19.56.50:056][237]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.02.25-19.57.03:509][695]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.57.03:509][695]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.57.06:846][ 63]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.57.06:846][ 63]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.57.07:459][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.57.07:459][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.02.25-19.57.52:199][381]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2024.02.25-19.58.07:923][188]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.25-19.58.07:928][188]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.25-19.58.58:870][235]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.25-19.59.16:901][235]LogSlate: Window 'Pick Skeletal Mesh' being destroyed
+[2024.02.25-19.59.16:910][235]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2024.02.25-19.59.16:913][235]LogContentBrowser: Creating deferred item: NewIKRig
+[2024.02.25-19.59.16:918][236]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2024.02.25-19.59.57:972][111]LogContentBrowser: Attempting asset rename: NewIKRig -> IK_SKM_Manny
+[2024.02.25-19.59.57:976][111]LogContentBrowser: End creating deferred item NewIKRig
+[2024.02.25-19.59.59:933][328]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny.IK_SKM_Manny
+[2024.02.25-19.59.59:936][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.25-19.59.59:987][328]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-19.59.59:988][328]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.00.00:196][328]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.02.25-20.00.00:244][328]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.02.25-20.01.29:043][200]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.25-20.03.28:742][302]Cmd: TRANSACTION UNDO
+[2024.02.25-20.03.28:742][302]LogEditorTransaction: Undo Rename Retarget Chain
+[2024.02.25-20.03.28:791][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.03.29:266][311]Cmd: TRANSACTION UNDO
+[2024.02.25-20.03.29:266][311]LogEditorTransaction: Undo Add Retarget Chain
+[2024.02.25-20.03.29:320][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.03.35:305][906]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.004890 seconds
+[2024.02.25-20.03.35:314][906]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/IK_SKM_Manny
+[2024.02.25-20.03.35:314][906]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SKM_Manny87956D994AC66A2AEE0C38A01380F391.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Content/Characters/Mannequins/Meshes/IK_SKM_Manny.uasset'
+[2024.02.25-20.03.35:326][906]AssetCheck: New page: Asset Save: IK_SKM_Manny
+[2024.02.25-20.03.35:326][906]LogContentValidation: Display: Validating IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny.IK_SKM_Manny
+[2024.02.25-20.03.53:738][799]LogViewport: Scene viewport resized to 1139x866, mode Windowed.
+[2024.02.25-20.03.53:759][800]LogViewport: Scene viewport resized to 1124x866, mode Windowed.
+[2024.02.25-20.03.53:790][801]LogViewport: Scene viewport resized to 1103x866, mode Windowed.
+[2024.02.25-20.03.53:810][802]LogViewport: Scene viewport resized to 1076x866, mode Windowed.
+[2024.02.25-20.03.53:829][803]LogViewport: Scene viewport resized to 1061x866, mode Windowed.
+[2024.02.25-20.03.53:849][804]LogViewport: Scene viewport resized to 1041x866, mode Windowed.
+[2024.02.25-20.03.53:867][805]LogViewport: Scene viewport resized to 1033x866, mode Windowed.
+[2024.02.25-20.03.53:888][806]LogViewport: Scene viewport resized to 1027x866, mode Windowed.
+[2024.02.25-20.03.53:908][807]LogViewport: Scene viewport resized to 1026x866, mode Windowed.
+[2024.02.25-20.03.54:066][825]LogViewport: Scene viewport resized to 1023x866, mode Windowed.
+[2024.02.25-20.03.54:084][826]LogViewport: Scene viewport resized to 1019x866, mode Windowed.
+[2024.02.25-20.03.54:131][827]LogViewport: Scene viewport resized to 1013x866, mode Windowed.
+[2024.02.25-20.03.54:165][830]LogViewport: Scene viewport resized to 1008x866, mode Windowed.
+[2024.02.25-20.03.54:183][831]LogViewport: Scene viewport resized to 1003x866, mode Windowed.
+[2024.02.25-20.03.54:208][832]LogViewport: Scene viewport resized to 996x866, mode Windowed.
+[2024.02.25-20.03.54:228][833]LogViewport: Scene viewport resized to 995x866, mode Windowed.
+[2024.02.25-20.03.54:247][834]LogViewport: Scene viewport resized to 993x866, mode Windowed.
+[2024.02.25-20.04.12:155][640]Cmd: TRANSACTION UNDO
+[2024.02.25-20.04.12:155][640]LogEditorTransaction: Undo Set Retarget Chain End Bone
+[2024.02.25-20.04.12:205][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.04.12:564][647]Cmd: TRANSACTION UNDO
+[2024.02.25-20.04.12:564][647]LogEditorTransaction: Undo Set Retarget Chain End Bone
+[2024.02.25-20.04.12:612][647]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.04.13:176][696]Cmd: TRANSACTION UNDO
+[2024.02.25-20.04.13:176][696]LogEditorTransaction: Undo Set Retarget Chain Start Bone
+[2024.02.25-20.04.13:226][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.04.13:604][734]Cmd: TRANSACTION UNDO
+[2024.02.25-20.04.13:604][734]LogEditorTransaction: Undo Rename Retarget Chain
+[2024.02.25-20.04.13:653][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.25-20.06.15:977][193]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.07.47:593][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.14:505][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.17:167][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.18:424][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.21:521][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.22:228][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.22:879][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.23:500][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.08.24:306][117]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.25-20.09.35:077][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.25-20.09.35:079][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ExampleProjectWelcome' took 0.013
+[2024.02.25-20.09.35:080][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny] ([1] browsable assets)...
+[2024.02.25-20.09.35:080][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny]
+[2024.02.25-20.09.35:088][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Auto1
+[2024.02.25-20.09.35:088][242]LogSavePackage: Moving '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/IK_SKM_Manny_Auto10F36BEA14CB69DB05283179B52C88437.tmp' to '../../../../../../Users/spatank/OneDrive - purdue.edu/Game Dev/CGT_555_11_spatank/CGT_555_11_spatank/Saved/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Auto1.uasset'
+[2024.02.25-20.09.35:093][242]LogFileHelpers: Auto-saving content packages took 0.014
